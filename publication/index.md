@@ -1,5 +1,4 @@
 # Wataru Kumagai's Homepage
-## 目次
 * Home：https://watarukumagai-git.github.io/
 * 研究業績：https://watarukumagai-git.github.io/publication/
 
