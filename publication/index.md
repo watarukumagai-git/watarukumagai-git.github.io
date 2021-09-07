@@ -4,8 +4,8 @@
 
 # 研究業績
 ## 学位論文
-* 博士論文：「変換不変性とパラメータ調整に基づくメタヒューリスティクスの設計に関する研究」，2020年9月30日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164))([pdf]())
-* 修士論文：「適応化のフレームワークの構築と適応型メタヒューリスティクスの開発に関する研究」，2016年3月31日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164))
+* 博士論文：「変換不変性とパラメータ調整に基づくメタヒューリスティクスの設計に関する研究」，2020年9月30日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164)) ([pdf]())
+* 修士論文：「適応化のフレームワークの構築と適応型メタヒューリスティクスの開発に関する研究」，2016年3月25日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164))
 
 
 ## 解説記事
@@ -26,25 +26,26 @@
 
 
 ## 国際会議（査読有り）
-* __Wataru Kumagai__ and Keiichiro Yasuda: "Particle Swarm Optimization with Rotational Invariance Using Correlativity," 2018 IEEE International Conference on Systems, Man, and Cybernetics, pp.1201-1208, 2018.10.15　([link](https://ieeexplore.ieee.org/document/8616207))
-* __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "Search Dynamics Analysis and Adaptive Parameter Adjustment of Cuckoo Search," 2015 IEEE International Conference on Systems, Man, and Cybernetics, pp.1700-1705 2015.10.15　([link](https://doi.org/10.1109/SMC.2015.299))
+* __Wataru Kumagai__ and Keiichiro Yasuda: "Particle Swarm Optimization with Rotational Invariance Using Correlativity," 2018 IEEE International Conference on Systems, Man, and Cybernetics, pp.1201-1208, 2018.10.07　([link](https://ieeexplore.ieee.org/document/8616207))
+* __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "Search Dynamics Analysis and Adaptive Parameter Adjustment of Cuckoo Search," 2015 IEEE International Conference on Systems, Man, and Cybernetics, pp.1700-1705 2015.10.09　([link](https://doi.org/10.1109/SMC.2015.299))
 
 
 ## 国内会議（査読無し）
-* 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「メタヒューリスティクスにおける加重和に基づく制約対処法の基礎検討」，計測自動制御学会 システム・情報部門学術講演会 2020，2020年11月17日
-* 安田雄佑，__熊谷 渉__，田村健一, 安田恵一郎：「メタヒューリスティクスのための制約対処法に関する解析とその課題」，令和2年電気学会全国大会，2020年3月11日
-* 徐鄭，__熊谷 渉__，田村 健一，安田恵一郎：「ロバスト性を考慮した回転不変性を有するArtificial Bee Colony Algorithm」，計測自動制御学会 システム・情報部門学術講演会 2019，2019年11月23日
-* __熊谷 渉__，安田恵一郎：「基底変換に基づくアフィン変換不変性を有するCuckoo Searchの基礎的検討」，計測自動制御学会 システム・情報部門学術講演会 2019，2019年11月23日
-* __熊谷 渉__，安田恵一郎：「変換不変性を有するメタヒューリスティクスのフレームワークの基礎的検討」，第62回 自動制御連合講演会，2019年11月8日
+* 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「メタヒューリスティクスにおける加重和に基づく制約対処法の基礎検討」，計測自動制御学会 システム・情報部門学術講演会 2020，GS1-3-1，pp.256-261，2020年11月17日
+* 安田雄佑，__熊谷 渉__，田村健一, 安田恵一郎：「メタヒューリスティクスのための制約対処法に関する解析とその課題」，令和2年電気学会全国大会，3-018，pp.24-25，2020年3月11日
+* 徐鄭，__熊谷 渉__，田村 健一，安田恵一郎：「ロバスト性を考慮した回転不変性を有するArtificial Bee Colony Algorithm」，計測自動制御学会 システム・情報部門学術講演会 2019，GS01-04，pp.189-194，2019年11月23日
+* __熊谷 渉__，安田恵一郎：「基底変換に基づくアフィン変換不変性を有するCuckoo Searchの基礎的検討」，計測自動制御学会 システム・情報部門学術講演会 2019，GS01-01，pp.136-141，2019年11月23日
+* __熊谷 渉__，安田恵一郎：「変換不変性を有するメタヒューリスティクスのフレームワークの基礎的検討」，第62回 自動制御連合講演会，1K1-03，2019年11月8日
 	* <span style="color: red; ">優秀発表賞</span>
-* __熊谷 渉__，安田恵一郎：「相関性を用いた回転不変性を有するParticle Swarm Optimization」，平成30年度 電気学会 電子・情報・システム部門大会，2018年9月5日
-* __熊谷 渉__，安田恵一郎：「相関性を用いた回転不変性を有するParticle Swarm Optimization 」，平成30年電気学会全国大会，2018年3月5日
+* __熊谷 渉__，安田恵一郎：「相関性を用いた回転不変性を有するParticle Swarm Optimization」，平成30年度 電気学会 電子・情報・システム部門大会，MC1-2，pp.28-33，2018年9月5日
+* __熊谷 渉__，安田恵一郎：「相関性を用いた回転不変性を有するParticle Swarm Optimization 」，平成30年電気学会全国大会，3-023，pp.28-29，2018年3月5日
 	* <span style="color: red; ">優秀論文発表賞</span>
-* 三宅雄貴，__熊谷 渉__，田村健一，安田恵一郎：「回転不変性を有するCuckoo Searchについての基礎検討」，計測自動制御学会システム・情報部門学術講演会 2017，2017年11月25日
-* 大隅竜太，__熊谷 渉__，田村健一，安田恵一郎：「優良解集合の提案とFirefly Algorithmに基づく最適化手法の提案」，進化計算学会 進化計算シンポジウム，2016年12月10日
-* __Wataru Kumagai__, Kenichi Tamura, Keiichiro Yasuda：「Parameter Analysis and Adaption of Cuckoo Search」，平成27年度 電気学会 電子・情報・システム部門大会，2015年8月26日
-* __熊谷 渉__，田村健一，安田恵一郎：「Cuckoo Searchの探索ダイナミクスの解析と適応的パラメータ調整に関する基礎検討」，平成27年電気学会全国大会，2015年3月24日
-* __熊谷 渉__，田村健一，安田恵一郎：「Cuckoo Searchの探索ダイナミクスの解析と適応化に関する検討」，進化計算学会 第8回進化計算研究会，2015年3月5日
+* 三宅雄貴，__熊谷 渉__，田村健一，安田恵一郎：「回転不変性を有するCuckoo Searchについての基礎検討」，計測自動制御学会システム・情報部門学術講演会 2017，SS11-6，pp.1-6，2017年11月25日
+* 大隅竜太，__熊谷 渉__，田村健一，安田恵一郎：「優良解集合の提案とFirefly Algorithmに基づく最適化手法の提案」，進化計算学会 進化計算シンポジウム 2016，P1-03，pp.12-20，2016年12月10日
+* __Wataru Kumagai__, Kenichi Tamura, Keiichiro Yasuda：「Parameter Analysis and Adaption of Cuckoo Search」，平成27年度 電気学会 電子・情報・システム部門大会，SS4-2，pp.1619-1620，2015年8月26日
+* __熊谷 渉__，田村健一，安田恵一郎：「Cuckoo Searchの探索ダイナミクスの解析と適応的パラメータ調整に関する基礎検討」，平成27年電気学会全国大会，3-025，pp.29-30，2015年3月24日
+* __熊谷 渉__，田村健一，安田恵一郎：「Cuckoo Searchの探索ダイナミクスの解析と適応化に関する検討」，進化計算学会 第8回進化計算研究会，P2-5，pp.113-120，2015年3月5日
 	* <span style="color: red; ">優秀論文発表賞</span>
-* __熊谷 渉__，田村健一，安田恵一郎：「パラメータ調整機能を有するCuckoo Searchに関する検討」，計測自動制御学会システム・情報部門学術講演会 2014，2014年11月21日
+* __熊谷 渉__，田村健一，安田恵一郎：「パラメータ調整機能を有するCuckoo Searchに関する検討」，計測自動制御学会システム・情報部門学術講演会 2014，GS1-1，pp.1-6，2014年11月21日
+	* <span style="color: red; ">15件の優秀論文に選出（総論文数350件）</span>
 * 松田健一，__熊谷 渉__，近藤良，増澤徹：「IPM型5軸制御セルフベアリングモータの基本特性改善に関する研究」，Dynamics & Design Conference 2014，2014年8月26日
