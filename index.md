@@ -28,9 +28,9 @@
 * エネルギー管理システム（EMS）
 
 ## 受賞歴
-* 優秀発表賞 「変換不変性を有するメタヒューリスティクスのフレームワークの基礎的検討」，第62回自動制御連合講演会，2019年11月　[link](https://www.jsme.or.jp/conference/rengo62/)
-* 優秀論文発表賞 「相関性を用いた回転不変性を有するParticle Swarm Optimization」 電気学会 全国大会，2018年3月　[link](https://www.iee.jp/blog/epaward_2018/)
-* 優秀論文発表賞 「Cuckoo Searchの探索ダイナミクスの解析と適応的パラメータ調整に関する基礎検討」，電気学会 全国大会，2015年3月　[link](http://denki.iee.jp/?page_id=13998)
+* 優秀発表賞 「変換不変性を有するメタヒューリスティクスのフレームワークの基礎的検討」，第62回自動制御連合講演会，2019年11月　([link](https://www.jsme.or.jp/conference/rengo62/))
+* 優秀論文発表賞 「相関性を用いた回転不変性を有するParticle Swarm Optimization」 電気学会 全国大会，2018年3月　([link](https://www.iee.jp/blog/epaward_2018/))
+* 優秀論文発表賞 「Cuckoo Searchの探索ダイナミクスの解析と適応的パラメータ調整に関する基礎検討」，電気学会 全国大会，2015年3月　([link](http://denki.iee.jp/?page_id=13998))
 
 ## 所属学会
 * 電気学会 正員
