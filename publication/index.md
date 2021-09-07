@@ -1,5 +1,8 @@
 # Wataru Kumagai's Homepage
-## 研究業績
+# 研究業績
+## 目次
+* Home：https://watarukumagai-git.github.io/
+* 研究業績：https://watarukumagai-git.github.io/publication/
 
 ## 博士論文
 * 「変換不変性とパラメータ調整に基づくメタヒューリスティクスの設計に関する研究」，2020年9月
