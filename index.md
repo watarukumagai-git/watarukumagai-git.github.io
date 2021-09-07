@@ -34,4 +34,4 @@
 * 日本ディープラーニング協会 エンジニア資格（E資格 2021#1） 
 
 ## 他サイト
-* research map：https://researchmap.jp/kumawata
+* [research map](https://researchmap.jp/kumawata)
