@@ -4,13 +4,13 @@
 
 # 研究業績
 ## 学位論文
-* 博士論文：「変換不変性とパラメータ調整に基づくメタヒューリスティクスの設計に関する研究」，2020年9月30日　([pdf]())
+* 博士論文：「変換不変性とパラメータ調整に基づくメタヒューリスティクスの設計に関する研究」，2020年9月30日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164))([pdf]())
 * 修士論文：「適応化のフレームワークの構築と適応型メタヒューリスティクスの開発に関する研究」，2016年3月31日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164))
 
 
 ## 解説記事
-* 安田恵一郎，__熊谷 渉__：「ブラックボックス最適化と応用」，計測と制御，Vol.59，No.12， pp.914-917，2020年12月1日　([link](https://www.jstage.jst.go.jp/article/sicejl/59/12/59_914/_article/-char/ja/#author-information-wrap))\\
-<<特集：スマーターワールドへの実展開を目指す新たなシステムズアプローチ>>
+* 安田恵一郎，__熊谷 渉__：「ブラックボックス最適化と応用」，計測と制御，Vol.59，No.12， pp.914-917，2020年12月1日　([link](https://www.jstage.jst.go.jp/article/sicejl/59/12/59_914/_article/-char/ja/#author-information-wrap))
+	* 特集：スマーターワールドへの実展開を目指す新たなシステムズアプローチ
 
 
 ## 学術論文（査読有り）
