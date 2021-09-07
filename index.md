@@ -1,8 +1,8 @@
 # Wataru Kumagai's Homepage
-## 目次
 * Home：https://watarukumagai-git.github.io/
 * 研究業績：https://watarukumagai-git.github.io/publication/
 
+# Home
 ## プロフィール
 * 氏名
 　熊谷 渉（くまがい わたる）
