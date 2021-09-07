@@ -23,8 +23,8 @@
 * 松田健一，__熊谷 渉__，近藤良，増澤徹：「IPM型5軸制御セルフベアリングモータの小型化とコギングトルク特性改善に関する研究」，日本機械学会論文集，Vol.81，No.827， pp.14-00567，2015年6月1日　([link](https://doi.org/10.1299/transjsme.14-00567))
 
 
-## 国際学会発表（査読あり）
+## 国際会議（査読あり）
 * __Wataru Kumagai__, Keiichiro Yasuda: "Particle Swarm Optimization with Rotational Invariance Using Correlativity," 2018 IEEE International Conference on Systems, Man, and Cybernetics, pp.1201-1208, 2018.10.15　([link](http://jglobal.jst.go.jp/public/201902229895259595))
 * __Wataru Kumagai__, Kenichi Tamura, Keiichiro Yasuda: "Search Dynamics Analysis and Adaptive Parameter Adjustment of Cuckoo Search," 2015 IEEE International Conference on Systems, Man, and Cybernetics, pp.1700-1705 2015.10.15　([link](https://doi.org/10.1109/SMC.2015.299))
 
-## 国内学会発表（査読なし）
+## 国内会議（査読なし）
