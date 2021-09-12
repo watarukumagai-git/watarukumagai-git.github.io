@@ -17,7 +17,7 @@
 ## 学術論文（査読有り）
 * 川島僚雄，__熊谷 渉__，田村健一，安田恵一郎：「複数局所的最適解探索のための距離情報を考慮した適合度に基づくParticle Swarm Optimization」，電気学会 電子・情報・システム部門誌，Vol.141，No.9，pp.1057-1058，2021年9月1日　([link](https://www.jstage.jst.go.jp/article/ieejeiss/141/9/141_1057/_article/-char/ja/))
 * __Wataru Kumagai__, Zheng Xu, Kenichi Tamura, and Keiichiro Yasuda: "Artificial Bee Colony Algorithm with Rotational Invariance Based on Hypersphere," IEEJ Transactions on Electrical and Electronic Engineering, Vol.15, No.9, pp.1405-1407, 2020.09.01　([link](https://doi.org/10.1002/tee.23209))
-* __熊谷 渉__, 安田恵一郎：「回転不変性を有する適応型Particle Swarm Optimization」，電気学会 電子・情報・システム部門誌，Vol.139，No.10，pp.1201-1214，2019年10月1日　([link](https://www.jstage.jst.go.jp/article/ieejeiss/139/10/139_1201/_article/-char/ja))
+* __熊谷 渉__，安田恵一郎：「回転不変性を有する適応型Particle Swarm Optimization」，電気学会 電子・情報・システム部門誌，Vol.139，No.10，pp.1201-1214，2019年10月1日　([link](https://www.jstage.jst.go.jp/article/ieejeiss/139/10/139_1201/_article/-char/ja))
 * Yuki Miyake, __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "Search point ranking-based adaptive cuckoo search," IEEJ Transactions on Electrical and Electronic Engineering, Vol.13, No.7, pp.1075-1076, 2018.07.01　([link](https://doi.org/10.1002/tee.22667))
 * __Wataru Kumagai__ and Keiichiro Yasuda: "Making Rotational Invariance of Particle Swarm Optimization Based on Correlativity," IEEJ Transactions on Electrical and Electronic Engineering, Vol.12, No.S2, pp.S131-S132, 2017.12.01　([link](https://doi.org/10.1002/tee.22667))
 * __熊谷 渉__，田村健一，土屋淳一，安田恵一郎：「探索状態の評価と制御に基づく適応型Cuckoo Search」，電気学会 電子・情報・システム部門誌，Vol.136，No.11，pp.1596-1609，2016年11月1日　([link](https://doi.org/10.1299/transjsme.14-00567))
@@ -33,7 +33,7 @@
 
 ## 国内会議（査読無し）
 * 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「メタヒューリスティクスにおける加重和に基づく制約対処法の基礎検討」，計測自動制御学会 システム・情報部門学術講演会 2020，GS1-3-1，pp.256-261，2020年11月17日
-* 安田雄佑，__熊谷 渉__，田村健一, 安田恵一郎：「メタヒューリスティクスのための制約対処法に関する解析とその課題」，令和2年電気学会全国大会，3-018，pp.24-25，2020年3月11日
+* 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「メタヒューリスティクスのための制約対処法に関する解析とその課題」，令和2年電気学会全国大会，3-018，pp.24-25，2020年3月11日
 * 徐鄭，__熊谷 渉__，田村健一，安田恵一郎：「ロバスト性を考慮した回転不変性を有するArtificial Bee Colony Algorithm」，計測自動制御学会 システム・情報部門学術講演会 2019，GS01-04，pp.189-194，2019年11月23日
 * __熊谷 渉__，安田恵一郎：「基底変換に基づくアフィン変換不変性を有するCuckoo Searchの基礎的検討」，計測自動制御学会 システム・情報部門学術講演会 2019，GS01-01，pp.136-141，2019年11月23日
 * __熊谷 渉__，安田恵一郎：「変換不変性を有するメタヒューリスティクスのフレームワークの基礎的検討」，第62回 自動制御連合講演会，1K1-03，2019年11月8日
