@@ -1,7 +1,7 @@
 # Wataru Kumagai's Homepage
 * [Home](https://watarukumagai-git.github.io/)
 * [研究業績](https://watarukumagai-git.github.io/publication/)
-* 最終更新日：2021年9月18日
+* 最終更新日：2021年10月23日
 
 # 研究業績
 ## 学位論文
@@ -12,7 +12,7 @@
 
 
 ## 解説記事
-* 安田恵一郎，__熊谷 渉__：「ブラックボックス最適化と応用」，計測と制御，Vol.59，No.12， pp.914-917，2020年12月1日　([link](https://www.jstage.jst.go.jp/article/sicejl/59/12/59_914/_article/-char/ja/#author-information-wrap))
+* 安田恵一郎，__熊谷 渉__：「ブラックボックス最適化と応用」，計測と制御，Vol.59，No.12， pp.914-917，2020年12月1日　([link](https://www.jstage.jst.go.jp/article/sicejl/59/12/59_914/_article/-char/ja/#author-information-wrap)) ([pdf](https://watarukumagai-git.github.io/publication/Overview_BBO_kumagai_online.pdf))
 	* 特集：スマーターワールドへの実展開を目指す新たなシステムズアプローチ
 
 
