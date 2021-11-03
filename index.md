@@ -1,6 +1,7 @@
 # Wataru Kumagai's Homepage
 * [Home](https://watarukumagai-git.github.io/)
 * [研究業績](https://watarukumagai-git.github.io/publication/)
+* [survey](https://watarukumagai-git.github.io/survey/)
 * 最終更新日：2021年9月12日
 
 # Home
