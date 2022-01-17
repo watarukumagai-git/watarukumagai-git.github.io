@@ -1,7 +1,7 @@
 # Wataru Kumagai's Homepage
 * [Home](https://watarukumagai-git.github.io/)
 * [研究業績](https://watarukumagai-git.github.io/publication/)
-* 最終更新日：2021年11月23日
+* 最終更新日：2022年1月17日
 
 # 研究業績
 ## 学位論文
@@ -17,7 +17,7 @@
 
 
 ## 学術論文（査読有り）
-* 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「MOEA/Dの有制約最適化への拡張と適応的重み調整に関する基礎検討」，電気学会 電子・情報・システム部門誌，Vol.142，2022年【掲載決定】
+* 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「MOEA/Dの有制約最適化への拡張と適応的重み調整に関する基礎検討」，電気学会 電子・情報・システム部門誌，Vol.142，No.1，pp.108-109，2022年1月1日　([link](https://www.jstage.jst.go.jp/article/ieejeiss/142/1/142_108/_article/-char/ja))
 * 川島僚雄，__熊谷 渉__，田村健一，安田恵一郎：「複数局所的最適解探索のための距離情報を考慮した適合度に基づくParticle Swarm Optimization」，電気学会 電子・情報・システム部門誌，Vol.141，No.9，pp.1057-1058，2021年9月1日　([link](https://www.jstage.jst.go.jp/article/ieejeiss/141/9/141_1057/_article/-char/ja/))
 * __Wataru Kumagai__, Zheng Xu, Kenichi Tamura, and Keiichiro Yasuda: "Artificial Bee Colony Algorithm with Rotational Invariance Based on Hypersphere," IEEJ Transactions on Electrical and Electronic Engineering, Vol.15, No.9, pp.1405-1407, 2020.09.01　([link](https://doi.org/10.1002/tee.23209))
 * __熊谷 渉__，安田恵一郎：「回転不変性を有する適応型Particle Swarm Optimization」，電気学会 電子・情報・システム部門誌，Vol.139，No.10，pp.1201-1214，2019年10月1日　([link](https://www.jstage.jst.go.jp/article/ieejeiss/139/10/139_1201/_article/-char/ja))
