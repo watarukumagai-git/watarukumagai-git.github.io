@@ -6,14 +6,10 @@
 
 # Home
 ## My Profile
-* Name
- Wataru Kumagai
-* Date of Birth
- 8th July 1991 (30 years old)
-* Belong
- Innovation Center, Marketing Headquarters, Yokogawa Electric Corporation
-* Degree
- Ph.D.(Engineering)
+* Name: Wataru Kumagai
+* Date of Birth: 8th July 1991 (30 years old)
+* Belong: Innovation Center, Marketing Headquarters, Yokogawa Electric Corporation
+* Degree: Ph.D.(Engineering)
 
 ## Work Experimence
 * April 2016 - present: Yokogawa Electric Corporation, Japan
