@@ -1,6 +1,6 @@
 # Wataru Kumagai's Homepage
 * [Home (jpn)](https://watarukumagai-git.github.io/) / [Home (eng)](https://watarukumagai-git.github.io/home_eng/)
-* [研究業績](https://watarukumagai-git.github.io/publication/) / [publication](https://watarukumagai-git.github.io/publication_eng/)
+* [研究業績 (jpn)](https://watarukumagai-git.github.io/publication/) / [publication (eng)](https://watarukumagai-git.github.io/publication_eng/)
 * Last Update: 19th January 2022
 
 # publication
