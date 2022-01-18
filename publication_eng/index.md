@@ -5,13 +5,13 @@
 
 # publication
 ## Thesis (Japanese)
-* Tokyo Metropolitan University, Doctoral Thesis：「変換不変性とパラメータ調整に基づくメタヒューリスティクスの設計に関する研究」，2020年9月30日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164)) ([pdf](https://watarukumagai-git.github.io/publication/Dissertation_kumagai_online.pdf))13.7MB
-* Tokyo Metropolitan University, Master's Thesis：「適応化のフレームワークの構築と適応型メタヒューリスティクスの開発に関する研究」，2016年3月25日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164))
+* Tokyo Metropolitan University, Doctoral Thesis: "Design of Metaheuristics Based on Transformation Invariance and Parameter Adjustment," 2020.09.30　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164)) ([pdf](https://watarukumagai-git.github.io/publication/Dissertation_kumagai_online.pdf)) 13.7MB
+* Tokyo Metropolitan University, Master's Thesis: "Design of Adaptation Framework and Development of Adaptive Metaheuristics," 2016.03.25　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164))
 
 
 ## Review (Japanese)
-* 安田恵一郎，__熊谷 渉__：「ブラックボックス最適化と応用」，計測と制御，Vol.59，No.12， pp.914-917，2020年12月1日　([link](https://www.jstage.jst.go.jp/article/sicejl/59/12/59_914/_article/-char/ja/#author-information-wrap)) ([pdf](https://watarukumagai-git.github.io/publication/Overview_BBO_kumagai_online.pdf))
-	* 特集：スマーターワールドへの実展開を目指す新たなシステムズアプローチ
+* Keiichiro Yasuda and __Wataru Kumagai__: "Black-Box Optimization and Its Application," Measurement and Control of SICE, Vol.59, No.12, pp.914-917, 2020.12.01 ([link](https://www.jstage.jst.go.jp/article/sicejl/59/12/59_914/_article/-char/ja/#author-information-wrap)) ([pdf](https://watarukumagai-git.github.io/publication/Overview_BBO_kumagai_online.pdf))
+	* Special Feature: "スマーターワールドへの実展開を目指す新たなシステムズアプローチ"
 
 
 ## Paper (Peer-Reviewed) (Japanese)
@@ -25,9 +25,9 @@
 
 
 ## Paper (Peer-Reviewed) (English)
-* __Wataru Kumagai__, Zheng Xu, Kenichi Tamura, and Keiichiro Yasuda: "Artificial Bee Colony Algorithm with Rotational Invariance Based on Hypersphere," IEEJ Transactions on Electrical and Electronic Engineering, Vol.15, No.9, pp.1405-1407, 2020.09.01　([link](https://doi.org/10.1002/tee.23209))
-* Yuki Miyake, __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "Search point ranking-based adaptive cuckoo search," IEEJ Transactions on Electrical and Electronic Engineering, Vol.13, No.7, pp.1075-1076, 2018.07.01　([link](https://doi.org/10.1002/tee.22667))
-* __Wataru Kumagai__ and Keiichiro Yasuda: "Making Rotational Invariance of Particle Swarm Optimization Based on Correlativity," IEEJ Transactions on Electrical and Electronic Engineering, Vol.12, No.S2, pp.S131-S132, 2017.12.01　([link](https://doi.org/10.1002/tee.22667))
+* __Wataru Kumagai__, Zheng Xu, Kenichi Tamura, and Keiichiro Yasuda: "Artificial Bee Colony Algorithm with Rotational Invariance Based on Hypersphere," IEEJ Transactions on Electrical and Electronic Engineering, Vol.15, No.9, pp.1405-1407, 2020.09.01 ([link](https://doi.org/10.1002/tee.23209))
+* Yuki Miyake, __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "Search point ranking-based adaptive cuckoo search," IEEJ Transactions on Electrical and Electronic Engineering, Vol.13, No.7, pp.1075-1076, 2018.07.01 ([link](https://doi.org/10.1002/tee.22667))
+* __Wataru Kumagai__ and Keiichiro Yasuda: "Making Rotational Invariance of Particle Swarm Optimization Based on Correlativity," IEEJ Transactions on Electrical and Electronic Engineering, Vol.12, No.S2, pp.S131-S132, 2017.12.01 ([link](https://doi.org/10.1002/tee.22667))
 
 
 ## International Conference (Peer-Reviewed) (English)
