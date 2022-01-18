@@ -1,7 +1,7 @@
 # Wataru Kumagai's Homepage
-* [Home](https://watarukumagai-git.github.io/)
-* [研究業績](https://watarukumagai-git.github.io/publication/)
-* 最終更新日：2022年1月17日
+* [Home (jpn)](https://watarukumagai-git.github.io/) / [Home (eng)](https://watarukumagai-git.github.io/home_eng/)
+* [研究業績 (jpn)](https://watarukumagai-git.github.io/publication/) / [publication (eng)](https://watarukumagai-git.github.io/publication_eng/)
+* 最終更新日：2022年1月19日
 
 # 研究業績
 ## 学位論文
