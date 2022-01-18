@@ -1,6 +1,6 @@
 # Wataru Kumagai's Homepage
 * [Home (jpn)](https://watarukumagai-git.github.io/) / [Home (eng)](https://watarukumagai-git.github.io/home_eng/)
-* [研究業績](https://watarukumagai-git.github.io/publication/) / [publication](https://watarukumagai-git.github.io/publication_eng/)
+* [研究業績 (jpn)](https://watarukumagai-git.github.io/publication/) / [publication (eng)](https://watarukumagai-git.github.io/publication_eng/)
 * [survey](https://watarukumagai-git.github.io/survey/)
 * 最終更新日：2022年1月19日
 
@@ -16,13 +16,13 @@
 　博士（工学）
 
 ## 経歴
-* 2016年4月 - 現在　横河電機株式会社
+* 2016年4月 - 現在：　横河電機株式会社
 
 ## 学歴
-* 2007年4月 - 2010年3月　北海道北広島高等学校（卒業）
-* 2010年4月 - 2014年3月　茨城大学工学部機械工学科（卒業）
-* 2014年4月 - 2016年3月　首都大学東京大学院理工学研究科電気電子工学専攻　前期博士課程（修了）
-* 2017年10月 - 2020年9月　東京都立大学大学院理工学研究科電気電子工学専攻<sup>[1](#note1)</sup>　後期博士課程（修了）
+* 2007年4月 - 2010年3月：　北海道北広島高等学校（卒業）
+* 2010年4月 - 2014年3月：　茨城大学工学部機械工学科（卒業）
+* 2014年4月 - 2016年3月：　首都大学東京大学院理工学研究科電気電子工学専攻　前期博士課程（修了）
+* 2017年10月 - 2020年9月：　東京都立大学大学院理工学研究科電気電子工学専攻<sup>[1](#note1)</sup>　後期博士課程（修了）
 
 <small id="note1">2020年4月に首都大学東京から東京都立大学に名称が変更されたため、旧首都大学東京のことである。</small>
 
