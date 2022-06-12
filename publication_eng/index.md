@@ -5,16 +5,16 @@
 
 # publication
 ## Thesis (Japanese)
-* Tokyo Metropolitan University, Doctoral Thesis: "Design of Metaheuristics Based on Transformation Invariance and Parameter Adjustment," 2020.09.30
-	* [Dissertation Thesis Online fulltext](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164) 13.7MB
+* Tokyo Metropolitan University, Doctoral Thesis: "Design of Metaheuristics Based on Transformation Invariance and Parameter Adjustment," 2020.09.30 ([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164))
+	* [Dissertation Thesis Online fulltext](https://tokyo-metro-u.repo.nii.ac.jp/?action=repository_uri&item_id=8682&file_id=18&file_no=3) 13.7MB
 	* [Dissertation Defense](https://watarukumagai-git.github.io/publication/Dissertation_Defense_kumagai.pdf) 5.7MB
-* Tokyo Metropolitan University, Master's Thesis: "Design of Adaptation Framework and Development of Adaptive Metaheuristics," 2016.03.25
-	* [Dissertation Thesis Online fulltext](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164)
+* Tokyo Metropolitan University, Master's Thesis: "Design of Adaptation Framework and Development of Adaptive Metaheuristics," 2016.03.25 ([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164))
+	* [Dissertation Thesis Online fulltext](https://tokyo-metro-u.repo.nii.ac.jp/?action=repository_uri&item_id=2532&file_id=18&file_no=1) 2.6MB
 
 
 ## Review (English)
 * __Wataru Kumagai__ and Keiichiro Yasuda: "Black-Box Optimization and Its Applications," Springer, 2023 [in press]
-	* [pre print](https://watarukumagai-git.github.io/publication/Overview_BBO_springer_kumagai_preprint.pdf)
+	* [Preprint](https://watarukumagai-git.github.io/publication/Overview_BBO_springer_kumagai_preprint.pdf)
 
 
 ## Paper (Peer-Reviewed, English)
@@ -30,7 +30,7 @@
 
 ## Review (Japanese)
 * Keiichiro Yasuda and __Wataru Kumagai__: "Black-Box Optimization and Its Application," Measurement and Control of SICE, Vol.59, No.12, pp.914-917, 2020.12.01 ([link](https://doi.org/10.11499/sicejl.59.914))
-	* [fulltext](https://watarukumagai-git.github.io/publication/Overview_BBO_kumagai_online.pdf)
+	* [Preprint fulltext](https://watarukumagai-git.github.io/publication/Overview_BBO_kumagai_online.pdf)
 	* Special Feature: "スマーターワールドへの実展開を目指す新たなシステムズアプローチ"
 
 
