@@ -1,20 +1,20 @@
 # Wataru Kumagai's Homepage
 * [Home (jpn)](https://watarukumagai-git.github.io/) / [Home (eng)](https://watarukumagai-git.github.io/home_eng/)
 * [研究業績 (jpn)](https://watarukumagai-git.github.io/publication/) / [publication (eng)](https://watarukumagai-git.github.io/publication_eng/)
-* Last Update: 19th January 2022
+* Last Update: 12th Jane 2022
 
 # publication
 ## Thesis (Japanese)
-* Tokyo Metropolitan University, Doctoral Thesis: "Design of Metaheuristics Based on Transformation Invariance and Parameter Adjustment," 2020.09.30　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164))
-	* [Dissertation Thesis Online](https://watarukumagai-git.github.io/publication/Dissertation_kumagai_online.pdf) 13.7MB
+* Tokyo Metropolitan University, Doctoral Thesis: "Design of Metaheuristics Based on Transformation Invariance and Parameter Adjustment," 2020.09.30
+	* [Dissertation Thesis Online fulltext](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164) 13.7MB
 	* [Dissertation Defense](https://watarukumagai-git.github.io/publication/Dissertation_Defense_kumagai.pdf) 5.7MB
-* Tokyo Metropolitan University, Master's Thesis: "Design of Adaptation Framework and Development of Adaptive Metaheuristics," 2016.03.25　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164))
+* Tokyo Metropolitan University, Master's Thesis: "Design of Adaptation Framework and Development of Adaptive Metaheuristics," 2016.03.25
+	* [Dissertation Thesis Online fulltext](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164)
 
 
-## Review (Japanese)
-* Keiichiro Yasuda and __Wataru Kumagai__: "Black-Box Optimization and Its Application," Measurement and Control of SICE, Vol.59, No.12, pp.914-917, 2020.12.01 ([link](https://www.jstage.jst.go.jp/article/sicejl/59/12/59_914/_article/-char/ja/#author-information-wrap))
-	* [pdf](https://watarukumagai-git.github.io/publication/Overview_BBO_kumagai_online.pdf)
-	* Special Feature: "スマーターワールドへの実展開を目指す新たなシステムズアプローチ"
+## Review (English)
+* __Wataru Kumagai__ and Keiichiro Yasuda: "Black-Box Optimization and Its Applications," Springer, 2023 [in press]
+	* [pre print](https://watarukumagai-git.github.io/publication/Overview_BBO_springer_kumagai_preprint.pdf)
 
 
 ## Paper (Peer-Reviewed, English)
@@ -26,6 +26,12 @@
 ## International Conference (Peer-Reviewed, English)
 * __Wataru Kumagai__ and Keiichiro Yasuda: "Particle Swarm Optimization with Rotational Invariance Using Correlativity," 2018 IEEE International Conference on Systems, Man, and Cybernetics, pp.1201-1208, 2018.10.07　([link](https://doi.org/10.1109/SMC.2018.00211))
 * __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "Search Dynamics Analysis and Adaptive Parameter Adjustment of Cuckoo Search," 2015 IEEE International Conference on Systems, Man, and Cybernetics, pp.1700-1705, 2015.10.09　([link](https://doi.org/10.1109/SMC.2015.299))
+
+
+## Review (Japanese)
+* Keiichiro Yasuda and __Wataru Kumagai__: "Black-Box Optimization and Its Application," Measurement and Control of SICE, Vol.59, No.12, pp.914-917, 2020.12.01 ([link](https://doi.org/10.11499/sicejl.59.914))
+	* [fulltext](https://watarukumagai-git.github.io/publication/Overview_BBO_kumagai_online.pdf)
+	* Special Feature: "スマーターワールドへの実展開を目指す新たなシステムズアプローチ"
 
 
 ## Paper (Peer-Reviewed, Japanese)
