@@ -5,11 +5,11 @@
 
 # 研究業績
 ## 学位論文
-* 東京都立大学 博士論文：「変換不変性とパラメータ調整に基づくメタヒューリスティクスの設計に関する研究」，2020年9月30日
-	* [学位論文電子版 fulltext](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164) 13.7MB
+* 東京都立大学 博士論文：「変換不変性とパラメータ調整に基づくメタヒューリスティクスの設計に関する研究」，2020年9月30日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164))
+	* [学位論文電子版 fulltext](https://tokyo-metro-u.repo.nii.ac.jp/?action=repository_uri&item_id=8682&file_id=18&file_no=3) 13.7MB
 	* [学位論文公聴会資料](https://watarukumagai-git.github.io/publication/Dissertation_Defense_kumagai.pdf) 5.7MB
-* 首都大学東京<sup>[1](#note1)</sup> 修士論文：「適応化のフレームワークの構築と適応型メタヒューリスティクスの開発に関する研究」，2016年3月25日
-	* [学位論文電子版 fulltext](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164)
+* 首都大学東京<sup>[1](#note1)</sup> 修士論文：「適応化のフレームワークの構築と適応型メタヒューリスティクスの開発に関する研究」，2016年3月25日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164))
+	* [学位論文電子版 fulltext](https://tokyo-metro-u.repo.nii.ac.jp/?action=repository_uri&item_id=2532&file_id=18&file_no=1) 2.6MB
 
 <small id="note1">2020年4月に首都大学東京から東京都立大学に名称が変更されたため、新東京都立大学のことである。</small>
 
