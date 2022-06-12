@@ -1,21 +1,24 @@
 # Wataru Kumagai's Homepage
 * [Home (jpn)](https://watarukumagai-git.github.io/) / [Home (eng)](https://watarukumagai-git.github.io/home_eng/)
 * [研究業績 (jpn)](https://watarukumagai-git.github.io/publication/) / [publication (eng)](https://watarukumagai-git.github.io/publication_eng/)
-* 最終更新日：2022年1月19日
+* 最終更新日：2022年6月12日
 
 # 研究業績
 ## 学位論文
-* 東京都立大学 博士論文：「変換不変性とパラメータ調整に基づくメタヒューリスティクスの設計に関する研究」，2020年9月30日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164)) 
-	* [学位論文電子版](https://watarukumagai-git.github.io/publication/Dissertation_kumagai_online.pdf) 13.7MB
+* 東京都立大学 博士論文：「変換不変性とパラメータ調整に基づくメタヒューリスティクスの設計に関する研究」，2020年9月30日
+	* [学位論文電子版 fulltext](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=8682&item_no=1&page_id=30&block_id=164) 13.7MB
 	* [学位論文公聴会資料](https://watarukumagai-git.github.io/publication/Dissertation_Defense_kumagai.pdf) 5.7MB
-* 首都大学東京<sup>[1](#note1)</sup> 修士論文：「適応化のフレームワークの構築と適応型メタヒューリスティクスの開発に関する研究」，2016年3月25日　([link](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164))
+* 首都大学東京<sup>[1](#note1)</sup> 修士論文：「適応化のフレームワークの構築と適応型メタヒューリスティクスの開発に関する研究」，2016年3月25日
+	* [学位論文電子版 fulltext](https://tokyo-metro-u.repo.nii.ac.jp/index.php?action=repository_view_main_item_detail&item_id=2532&item_no=1&page_id=30&block_id=164)
 
 <small id="note1">2020年4月に首都大学東京から東京都立大学に名称が変更されたため、新東京都立大学のことである。</small>
 
 
 ## 解説記事
+* __Wataru Kumagai__ and Keiichiro Yasuda: "Black-Box Optimization and Its Applications," Springer, 2023 [in press]
+	* [pre print](https://watarukumagai-git.github.io/publication/Overview_BBO_springer_kumagai_preprint.pdf)
 * 安田恵一郎，__熊谷 渉__：「ブラックボックス最適化と応用」，計測と制御，Vol.59，No.12， pp.914-917，2020年12月1日　([link](https://doi.org/10.11499/sicejl.59.914))
-	* [pdf](https://watarukumagai-git.github.io/publication/Overview_BBO_kumagai_online.pdf)
+	* [fulltext](https://watarukumagai-git.github.io/publication/Overview_BBO_kumagai_online.pdf)
 	* 特集：スマーターワールドへの実展開を目指す新たなシステムズアプローチ
 
 
