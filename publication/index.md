@@ -1,7 +1,7 @@
 # Wataru Kumagai's Homepage
 * [Home (jpn)](https://watarukumagai-git.github.io/) / [Home (eng)](https://watarukumagai-git.github.io/home_eng/)
 * [研究業績 (jpn)](https://watarukumagai-git.github.io/publication/) / [publication (eng)](https://watarukumagai-git.github.io/publication_eng/)
-* 最終更新日：2022年6月12日
+* 最終更新日：2022年9月8日
 
 # 研究業績
 ## 学位論文
@@ -41,6 +41,10 @@
 
 
 ## 国内会議（査読無し）
+* 佐藤勇司，__熊谷 渉__，安田雄佑，田村健一，安田恵一郎：「有制約最適化のためのDifferential Evolutionの基礎検討」，2022年 電気学会 電子・情報・システム部門大会，GS10-4，2022年9月2日
+* 小嶋英時，安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「有制約最適化のためのMOEA/Dに基づく制約対処法の検討 」，2022年 電気学会 電子・情報・システム部門大会，GS10-3，2022年9月2日
+* 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「制約条件を目的関数に変換する有制約メタヒューリスティクスの提案」，2022年 電気学会 電子・情報・システム部門大会，GS10-2，2022年9月2日
+* Yusuke Yasuda, __Wataru Kumagai__, Kenichi Tamura, Keiichiro Yasuda：「Feasibility-based Weighted MOEA/D in Constrained Optimization 」，2022年 電気学会 電子・情報・システム部門大会，SS1-1，2022年8月31日
 * 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「適応的重み調整を用いたMOEA/Dによる有制約最適化」，計測自動制御学会 システム・情報部門学術講演会 2021，GS5-2-1，pp.252-257，2021年11月22日
 	* <span style="color: red; ">SSI優秀論文賞</span>
 * 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「有制約最適化問題のためのMOEA/Dに基づく制約対処法のパラメータ解析」，2021年 電気学会 電子・情報・システム部門大会，GS12-5，pp.1226-1231，2021年9月18日
