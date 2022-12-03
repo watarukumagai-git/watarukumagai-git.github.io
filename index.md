@@ -11,14 +11,14 @@
 # Wataru Kumagai's Homepage
 * [Home (jpn)](https://watarukumagai-git.github.io/) / [Home (eng)](https://watarukumagai-git.github.io/home_eng/)
 * [研究業績 (jpn)](https://watarukumagai-git.github.io/publication/) / [publication (eng)](https://watarukumagai-git.github.io/publication_eng/)
-* 最終更新日：2022年1月19日
+* 最終更新日：2022年12月3日
 
 # Home
 ## プロフィール
 * 氏名
 　熊谷 渉（くまがい わたる）
 * 生年月日
-　1991年7月8日（満30歳）
+　1991年7月8日（満31歳）
 * 所属
 　横河電機株式会社 マーケティング本部 イノベーションセンター
 * 学位
