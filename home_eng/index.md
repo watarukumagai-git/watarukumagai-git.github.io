@@ -1,12 +1,12 @@
 # Wataru Kumagai's Homepage
 * [Home (jpn)](https://watarukumagai-git.github.io/) / [Home (eng)](https://watarukumagai-git.github.io/home_eng/)
 * [研究業績 (jpn)](https://watarukumagai-git.github.io/publication/) / [publication (eng)](https://watarukumagai-git.github.io/publication_eng/)
-* Last Update: 19th January 2022
+* Last Update: 3rd December 2022
 
 # Home
 ## My Profile
 * Name: Wataru Kumagai
-* Date of Birth: 8th July 1991 (30 years old)
+* Date of Birth: 8th July 1991 (31 years old)
 * Belong: Innovation Center, Marketing Headquarters, Yokogawa Electric Corporation
 * Degree: Ph.D.(Engineering)
 
