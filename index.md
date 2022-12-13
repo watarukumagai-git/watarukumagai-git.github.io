@@ -56,3 +56,4 @@
 * [research map](https://researchmap.jp/kumawata)
 * [Qiita](https://qiita.com/fridericusgauss)
 * [mathlog](https://mathlog.info/users/1600/articles)
+* [ORCID](https://orcid.org/0000-0002-8042-1045)
