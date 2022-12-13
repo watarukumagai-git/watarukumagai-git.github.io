@@ -54,3 +54,4 @@
 
 ## 他サイト
 * [research map](https://researchmap.jp/kumawata)
+* [Qiita](https://qiita.com/fridericusgauss)
