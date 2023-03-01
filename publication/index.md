@@ -1,7 +1,7 @@
 # Wataru Kumagai's Homepage
 * [Home (jpn)](https://watarukumagai-git.github.io/) / [Home (eng)](https://watarukumagai-git.github.io/home_eng/)
 * [研究業績 (jpn)](https://watarukumagai-git.github.io/publication/) / [publication (eng)](https://watarukumagai-git.github.io/publication_eng/)
-* 最終更新日：2022年12月3日
+* 最終更新日：2023年3月1日
 
 # 研究業績
 ## 学位論文
@@ -23,7 +23,7 @@
 
 
 ## 学術論文（査読有り）
-* 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「有制約最適化のための制約条件の目的関数化と適応的重み調整を用いたMOEA/D」，電気学会 電子・情報・システム部門誌，Vol.143，No.3，2023年3月1日【掲載決定】
+* 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「有制約最適化のための制約条件の目的関数化と適応的重み調整を用いたMOEA/D」，電気学会 電子・情報・システム部門誌，Vol.143，No.3，pp. 353-363，2023年3月1日　([link](https://doi.org/10.1541/ieejeiss.143.353))
 * 安田雄佑，__熊谷 渉__，田村健一，安田恵一郎：「MOEA/Dの有制約最適化への拡張と適応的重み調整に関する基礎検討」，電気学会 電子・情報・システム部門誌，Vol.142，No.1，pp.108-109，2022年1月1日　([link](https://doi.org/10.1541/ieejeiss.142.108))
 * 川島僚雄，__熊谷 渉__，田村健一，安田恵一郎：「複数局所的最適解探索のための距離情報を考慮した適合度に基づくParticle Swarm Optimization」，電気学会 電子・情報・システム部門誌，Vol.141，No.9，pp.1057-1058，2021年9月1日　([link](https://doi.org/10.1541/ieejeiss.141.1057))
 * __Wataru Kumagai__, Zheng Xu, Kenichi Tamura, and Keiichiro Yasuda: "Artificial Bee Colony Algorithm with Rotational Invariance Based on Hypersphere," IEEJ Transactions on Electrical and Electronic Engineering, Vol.15, No.9, pp.1405-1407, 2020.09.01　([link](https://doi.org/10.1002/tee.23209))
@@ -37,9 +37,9 @@
 
 
 ## 国際会議（査読有り）
-* Yusuke Yasuda, __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "MOEA/D with Feasibility-based Weight Adjustment for Constrained Optimization," 2022 IEEE Symposium Series on Computational Intelligence, 2022.12.07 [in press]
-* __Wataru Kumagai__ and Keiichiro Yasuda: "Particle Swarm Optimization with Rotational Invariance Using Correlativity," 2018 IEEE International Conference on Systems, Man, and Cybernetics, pp.1201-1208, 2018.10.07　([link](https://doi.org/10.1109/SMC.2018.00211))
-* __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "Search Dynamics Analysis and Adaptive Parameter Adjustment of Cuckoo Search," 2015 IEEE International Conference on Systems, Man, and Cybernetics, pp.1700-1705, 2015.10.09　([link](https://doi.org/10.1109/SMC.2015.299))
+* Yusuke Yasuda, __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "MOEA/D with Feasibility-based Weight Adjustment for Constrained Optimization," 2022 IEEE Symposium Series on Computational Intelligence, pp. 1560-1566, 2022.12.07 ([link](https://doi.org/10.1109/SSCI51031.2022.10022135))
+* __Wataru Kumagai__ and Keiichiro Yasuda: "Particle Swarm Optimization with Rotational Invariance Using Correlativity," 2018 IEEE International Conference on Systems, Man, and Cybernetics, pp.1201-1208, 2018.10.07 ([link](https://doi.org/10.1109/SMC.2018.00211))
+* __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "Search Dynamics Analysis and Adaptive Parameter Adjustment of Cuckoo Search," 2015 IEEE International Conference on Systems, Man, and Cybernetics, pp.1700-1705, 2015.10.09 ([link](https://doi.org/10.1109/SMC.2015.299))
 
 
 ## 国内会議（査読無し）
