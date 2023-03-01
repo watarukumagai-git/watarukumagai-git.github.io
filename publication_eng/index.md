@@ -24,7 +24,7 @@
 
 
 ## International Conference (Peer-Reviewed, English)
-* Yusuke Yasuda, __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "MOEA/D with Feasibility-based Weight Adjustment for Constrained Optimization," 2022 IEEE Symposium Series on Computational Intelligence, 2022.12.07 [in press]
+* Yusuke Yasuda, __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "MOEA/D with Feasibility-based Weight Adjustment for Constrained Optimization," 2022 IEEE Symposium Series on Computational Intelligence, pp. 1560-1566, 2022.12.07 ([link](https://doi.org/10.1109/SSCI51031.2022.10022135))
 * __Wataru Kumagai__ and Keiichiro Yasuda: "Particle Swarm Optimization with Rotational Invariance Using Correlativity," 2018 IEEE International Conference on Systems, Man, and Cybernetics, pp.1201-1208, 2018.10.07　([link](https://doi.org/10.1109/SMC.2018.00211))
 * __Wataru Kumagai__, Kenichi Tamura, and Keiichiro Yasuda: "Search Dynamics Analysis and Adaptive Parameter Adjustment of Cuckoo Search," 2015 IEEE International Conference on Systems, Man, and Cybernetics, pp.1700-1705, 2015.10.09　([link](https://doi.org/10.1109/SMC.2015.299))
 
