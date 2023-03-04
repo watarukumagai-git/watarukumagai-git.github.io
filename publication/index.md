@@ -15,7 +15,7 @@
 
 
 ## 解説記事
-* __Wataru Kumagai__ and Keiichiro Yasuda: "Black-Box Optimization and Its Applications," Springer, 2023 [in press]
+* __Wataru Kumagai__ and Keiichiro Yasuda: "Black-Box Optimization and Its Applications," Innovative Systems Approach for Facilitating Smarter World, Springer Nature Singapore, pp.81-10, 2023.03.01 ([link](https://doi.org/10.1007/978-981-19-7776-3_6))
 	* [pre print](https://watarukumagai-git.github.io/publication/Overview_BBO_springer_kumagai_preprint.pdf)
 * 安田恵一郎，__熊谷 渉__：「ブラックボックス最適化と応用」，計測と制御，Vol.59，No.12， pp.914-917，2020年12月1日　([link](https://doi.org/10.11499/sicejl.59.914))
 	* [fulltext](https://watarukumagai-git.github.io/publication/Overview_BBO_kumagai_online.pdf)
