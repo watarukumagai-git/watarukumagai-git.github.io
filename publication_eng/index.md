@@ -13,7 +13,7 @@
 
 
 ## Review (English)
-* __Wataru Kumagai__ and Keiichiro Yasuda: "Black-Box Optimization and Its Applications," Springer, 2023 [in press]
+* __Wataru Kumagai__ and Keiichiro Yasuda: "Black-Box Optimization and Its Applications," Innovative Systems Approach for Facilitating Smarter World, Springer Nature Singapore, pp.81-10, 2023.03.01 ([link](https://doi.org/10.1007/978-981-19-7776-3_6))
 	* [Preprint](https://watarukumagai-git.github.io/publication/Overview_BBO_springer_kumagai_preprint.pdf)
 
 
