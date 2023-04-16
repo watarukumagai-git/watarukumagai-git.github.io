@@ -111,3 +111,10 @@ main {
     }
 
 }
+
+
+.heading-001 {
+    padding: .5em .7em;
+    border-left: 5px solid #2589d0;
+    color: #333333;
+}
