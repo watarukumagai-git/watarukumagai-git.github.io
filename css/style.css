@@ -9,7 +9,11 @@ padding: 0;
 margin: 0;
 box-sizing: border-box;
 }
+ol, ul {
+list-style: inside;
+}
 a {
+text-decoration: none;
 color: inherit;
 }
 .cp_cont {
