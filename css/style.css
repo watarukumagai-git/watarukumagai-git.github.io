@@ -3,10 +3,6 @@
     border-left: 5px solid #2589d0;
     color: #333333;
 }
-.my-list {
-  list-style-type: circle;
-  padding: 20px;
-}
 
 *, *:before, *:after {
     padding: 0;
@@ -15,6 +11,10 @@
 }
 ol, ul {
     list-style: inside;
+}
+ul ul {
+    list-style-type: circle;
+    padding-left: 20px;
 }
 a {
     text-decoration: none;
