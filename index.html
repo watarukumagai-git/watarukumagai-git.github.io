@@ -15,7 +15,18 @@
     </header> 
     <main class="container">
       <h1>Home</h1>
-      <p>最終更新日：2023年4月16日</p>
+      <p>最終更新日：</p>
+      <time id="modify"></time>
+      <script>
+        /* 更新日の取得 */
+        const last = new Date(document.lastModified);
+        const year = last.getFullYear();
+        const month = last.getMonth() + 1;
+        const date = last.getDate();
+        /* 日付を書き換える */
+        const target = document.getElementById('modify');
+        target.textContent = year + '-' + month + '-' + date;
+      </script>
       <section>
         <h2 class="heading-001">プロフィール</h2>
         <ul>
