@@ -5,7 +5,7 @@
 }
 .my-list {
   list-style-type: circle;
-  padding: 20;
+  padding: 20px;
 }
 
 *, *:before, *:after {
