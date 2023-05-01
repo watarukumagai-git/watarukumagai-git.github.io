@@ -15,7 +15,18 @@
     </header> 
     <main class="container">
       <h1>Home</h1>
-      <p>Last Update: 16th April 2023</p>
+      <p>Last Update: <time id="modify"></time>
+      </p>
+      <script>
+        /* 更新日の取得 */
+        const last = new Date(document.lastModified);
+        const year = last.getFullYear();
+        const month = last.getMonth() + 1;
+        const date = last.getDate();
+        /* 日付を書き換える */
+        const target = document.getElementById('modify');
+        target.textContent = year + '-' + month + '-' + date;
+      </script>
       <section>
         <h2 class="heading-001">My Profile</h2>
         <ul>
