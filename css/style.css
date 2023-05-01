@@ -65,14 +65,14 @@ display: none;
 position: relative;
 top: 10px;
 margin-top: 0;
-padding: -20px auto;
+padding: 20px auto;
 -webkit-transition: transform .3s ease-in;
         transition: transform .3s ease-in;
 }
 .cp_content {
 margin: 0 auto;
 padding: 0px;
-height: 5vh;
+height: 35vh;
 text-align: center;
 }
 @media (max-width: 767px) {
