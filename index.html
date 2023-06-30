@@ -20,13 +20,16 @@
       </p>
       <script>
         const last = new Date(document.lastModified);
+        const year = last.getFullYear()
+        const month = last.getMonth() + 1
+        const day = last.getDate()
         const today = document.getElementById('modify');
-        today.textContent = last.getFullYear() + '-' + last.getMonth() + 1 + '-' + last.getDate();
+        today.textContent = year + '-' + month + '-' + day;
         const old = document.getElementById('old');
-        if (last.getMonth() + 1 <= 6 || (last.getMonth() + 1 == 7 && last.getMonth() + 1 <= 7)){
-            old.textContent = last.getFullYear() - 1991;
+        if (month <= 6 || (month == 7 && day <= 7)){
+            old.textContent = year - 1991;
         }else{
-            old.textContent = last.getFullYear() - 1991 + 1;
+            old.textContent = year - 1991 + 1;
         }
       </script>
       <p>お知らせ：ハイパーリンクへのアクセスが、PCからは可能ですが、スマートフォンからはできない状況です。今後改善します。</p>
