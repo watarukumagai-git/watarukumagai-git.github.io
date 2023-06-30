@@ -25,6 +25,13 @@
         const day = last.getDate()
         const today = document.getElementById('modify');
         today.textContent = year + '-' + month + '-' + day;
+      </script>
+      <p>お知らせ：ハイパーリンクへのアクセスが、PCからは可能ですが、スマートフォンからはできない状況です。今後改善します。</p>
+      <script>
+        const last = new Date(document.lastModified);
+        const year = last.getFullYear()
+        const month = last.getMonth() + 1
+        const day = last.getDate()
         const old = document.getElementById('old');
         if (month <= 6 || (month == 7 && day <= 7)){
             old.textContent = year - 1991;
@@ -32,14 +39,11 @@
             old.textContent = year - 1991 + 1;
         }
       </script>
-      <p>お知らせ：ハイパーリンクへのアクセスが、PCからは可能ですが、スマートフォンからはできない状況です。今後改善します。</p>
       <section>
         <h2 class="heading-001">プロフィール</h2>
         <ul>
           <li>氏名<br>熊谷 渉（くまがい わたる）</li>
-          <li>生年月日<br>1991年7月8日（満
-            <time id="old"></time>
-          歳）</li>
+          <li>生年月日<br>1991年7月8日（満<time id="old"></time>歳）</li>
           <li>所属<br>横河電機株式会社 マーケティング本部 イノベーションセンター</li>
           <li>学位<br>博士（工学）</li>
         </ul>
